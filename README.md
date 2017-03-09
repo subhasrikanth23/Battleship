@@ -74,6 +74,7 @@ Smart Guess:
     - If none of the neighboring cells are clear, make a random guess; however, this condition should never occur
 
 <b>Very Smart Computer Player</b>
+
 Some of the differences in the “Very Smart Computer Player” class (derived from “Smart Computer Player”) are:
   - “Random Guess” is made along the diagonal lines of the grid
   - “Smart Guess” uses a diagonal position (instead of the “Knight Position”) to get the “best”/“good”/ “average” rating
